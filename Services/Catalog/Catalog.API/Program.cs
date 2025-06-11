@@ -1,4 +1,3 @@
-using System.Reflection;
 using Asp.Versioning;
 using Catalog.Application.Handlers;
 using Catalog.Application.Mappers;
